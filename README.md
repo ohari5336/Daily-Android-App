@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://lh3.googleusercontent.com/mk9cxl7vbdVZBSNFomwqgPLCrVmAMKYQcwuHcgUjaQQkkzerOVz4li7QSHxQZyWgCQ8i=w144-h144-n-rw" alt="Ohari Logo" width="150">
+  <img src="https://github.com/ohari5336/Daily-Android-App/blob/master/Developer%20Ohari%20Logo.png" alt="Ohari Logo" width="150">
   <h1>Welcome to the my repository</h1>
   <strong>This is android app repo of dailly.dev extention 👩🏽‍💻</strong>
   <h6>Made with ❤️ by me</h6>
